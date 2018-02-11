@@ -2,45 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d93606fc-d30f-4e17-999b-c4bf1c8a2515" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/fonts/Noto-Sans-700/Noto-Sans-700.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/fonts/Noto-Sans-700/Noto-Sans-700.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/fonts/Noto-Sans-700/Noto-Sans-700.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/fonts/Noto-Sans-700/Noto-Sans-700.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/michellejzh.github.io.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_layouts/default.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/fonts/Noto-Sans-700/Noto-Sans-700.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/js/scale.fix.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/art.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/style.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commission.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/art.html" afterPath="$PROJECT_DIR$/_site/art.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/commission.html" afterPath="$PROJECT_DIR$/_site/commission.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/music.html" afterPath="$PROJECT_DIR$/_site/music.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -51,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="default.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="default.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="45" lean-forward="false" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+            <state relative-caret-position="173">
+              <caret line="17" column="72" lean-forward="true" selection-start-line="17" selection-start-column="72" selection-end-line="17" selection-end-column="72" />
               <folding />
             </state>
           </provider>
@@ -67,11 +34,11 @@
             <state relative-caret-position="159">
               <caret line="25" column="9" lean-forward="false" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
               <folding>
-                <marker date="1518333558000" expanded="true" signature="1500:1701" ph="..." />
-                <marker date="1518333558000" expanded="true" signature="1500:1872" ph="..." />
-                <marker date="1518333558000" expanded="true" signature="1500:1934" ph="..." />
-                <marker date="1518333558000" expanded="true" signature="1717:1776" ph="..." />
-                <marker date="1518333558000" expanded="true" signature="1791:1861" ph="..." />
+                <marker date="1518333829000" expanded="true" signature="1500:1802" ph="..." />
+                <marker date="1518333829000" expanded="true" signature="1500:1973" ph="..." />
+                <marker date="1518333829000" expanded="true" signature="1500:2035" ph="..." />
+                <marker date="1518333829000" expanded="true" signature="1818:1877" ph="..." />
+                <marker date="1518333829000" expanded="true" signature="1892:1962" ph="..." />
               </folding>
             </state>
           </provider>
@@ -123,12 +90,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="commission.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="commission.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/commission.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+              <first_editor relative-caret-position="60">
+                <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -202,8 +169,8 @@
         <option value="$PROJECT_DIR$/music.md" />
         <option value="$PROJECT_DIR$/index.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/commission.md" />
+        <option value="$PROJECT_DIR$/_layouts/default.html" />
       </list>
     </option>
   </component>
@@ -393,11 +360,11 @@
         <state relative-caret-position="159">
           <caret line="25" column="9" lean-forward="false" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
           <folding>
-            <marker date="1518333558000" expanded="true" signature="1500:1701" ph="..." />
-            <marker date="1518333558000" expanded="true" signature="1500:1872" ph="..." />
-            <marker date="1518333558000" expanded="true" signature="1500:1934" ph="..." />
-            <marker date="1518333558000" expanded="true" signature="1717:1776" ph="..." />
-            <marker date="1518333558000" expanded="true" signature="1791:1861" ph="..." />
+            <marker date="1518333829000" expanded="true" signature="1500:1802" ph="..." />
+            <marker date="1518333829000" expanded="true" signature="1500:1973" ph="..." />
+            <marker date="1518333829000" expanded="true" signature="1500:2035" ph="..." />
+            <marker date="1518333829000" expanded="true" signature="1818:1877" ph="..." />
+            <marker date="1518333829000" expanded="true" signature="1892:1962" ph="..." />
           </folding>
         </state>
       </provider>
@@ -459,22 +426,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="45" lean-forward="false" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/commission.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="17" column="72" lean-forward="true" selection-start-line="17" selection-start-column="72" selection-end-line="17" selection-end-column="72" />
+          <folding />
         </state>
       </provider>
     </entry>
